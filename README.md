@@ -11,6 +11,7 @@ bagpyperSim.py simulates the bagpipe drone with a sum of sines and saves an outp
 
 
 dronemono.wav is the recorded drone file
+
 piano.wav is the test input file
 
 
